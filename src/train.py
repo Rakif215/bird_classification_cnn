@@ -58,3 +58,4 @@ def train() -> None:
         print(f"Model saved to {model_save_path}")
 
         print(f"Test Loss: {test_loss}, Test Accuracy: {test_accuracy}")
+train()
