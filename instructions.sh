@@ -1,13 +1,7 @@
 ## Download
-docker build -t kaggle-downloader .
 
-docker run -v $(pwd)/data:/data -e KAGGLE_USERNAME=$KAGGLE_USERNAME -e KAGGLE_KEY=$KAGGLE_KEY kaggle-downloader
 
-git checkout -b train
-cp -r ../data ./data
+sudo docker build -t birdClassificationApp .
 
-## Train
-sudo unzip ./data/100-bird-species.zip -d ./datadata/
-
-docker build -t bird-classification .
-docker run bird-classification
+#Use the below code to run docker.
+sudo docker run -p 5000:5000 birdClassificationApp
