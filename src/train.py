@@ -85,8 +85,9 @@ def train(model: nn.Module,
 
         # Save the trained model for later inference
         model_save_path = os.path.join('models', 'bird_classification_model.pth')
+        os.makedirs(os.path.dirname(model_save_path),exist_ok=True)
         torch.save(model.state_dict(), model_save_path)
         print(f'Model saved to {model_save_path}')
 
-        # Close the TensorBoard writer
+        # Close the TensorBoasrd writer
         writer.close()

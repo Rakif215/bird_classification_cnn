@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/68406be1456447f599fd0ec71d130f56/artifacts
+end_time: 1713125148299
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: 68406be1456447f599fd0ec71d130f56
+run_name: worried-dolphin-59
+run_uuid: 68406be1456447f599fd0ec71d130f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713124759912
+status: 4
+tags: []
+user_id: student

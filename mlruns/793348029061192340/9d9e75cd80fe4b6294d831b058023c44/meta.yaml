@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/9d9e75cd80fe4b6294d831b058023c44/artifacts
+end_time: 1713130927164
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: 9d9e75cd80fe4b6294d831b058023c44
+run_name: skittish-mare-830
+run_uuid: 9d9e75cd80fe4b6294d831b058023c44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713125517365
+status: 3
+tags: []
+user_id: student

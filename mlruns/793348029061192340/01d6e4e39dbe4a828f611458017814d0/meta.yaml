@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/01d6e4e39dbe4a828f611458017814d0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: 01d6e4e39dbe4a828f611458017814d0
+run_name: bouncy-trout-91
+run_uuid: 01d6e4e39dbe4a828f611458017814d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713090169122
+status: 1
+tags: []
+user_id: student

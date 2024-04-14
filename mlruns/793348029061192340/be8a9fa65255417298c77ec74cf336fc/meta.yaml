@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/be8a9fa65255417298c77ec74cf336fc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: be8a9fa65255417298c77ec74cf336fc
+run_name: bustling-crane-583
+run_uuid: be8a9fa65255417298c77ec74cf336fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713124582701
+status: 1
+tags: []
+user_id: student

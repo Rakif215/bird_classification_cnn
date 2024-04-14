@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/0f30575f04ec4cb9a163ec6f5374bfe7/artifacts
+end_time: 1713124749687
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: 0f30575f04ec4cb9a163ec6f5374bfe7
+run_name: skittish-cat-283
+run_uuid: 0f30575f04ec4cb9a163ec6f5374bfe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713124739226
+status: 4
+tags: []
+user_id: student

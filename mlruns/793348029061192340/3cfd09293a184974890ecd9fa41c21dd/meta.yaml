@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/3cfd09293a184974890ecd9fa41c21dd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: 3cfd09293a184974890ecd9fa41c21dd
+run_name: learned-mule-926
+run_uuid: 3cfd09293a184974890ecd9fa41c21dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713088125467
+status: 1
+tags: []
+user_id: student

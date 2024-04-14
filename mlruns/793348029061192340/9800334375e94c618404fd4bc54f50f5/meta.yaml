@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/9800334375e94c618404fd4bc54f50f5/artifacts
+end_time: 1713092880344
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: 9800334375e94c618404fd4bc54f50f5
+run_name: welcoming-midge-976
+run_uuid: 9800334375e94c618404fd4bc54f50f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713092352883
+status: 3
+tags: []
+user_id: student

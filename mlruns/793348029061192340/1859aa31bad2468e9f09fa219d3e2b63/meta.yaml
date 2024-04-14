@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/1859aa31bad2468e9f09fa219d3e2b63/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: 1859aa31bad2468e9f09fa219d3e2b63
+run_name: amazing-sheep-346
+run_uuid: 1859aa31bad2468e9f09fa219d3e2b63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713090904612
+status: 1
+tags: []
+user_id: student

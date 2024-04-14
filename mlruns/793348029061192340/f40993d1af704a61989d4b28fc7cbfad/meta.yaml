@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/f40993d1af704a61989d4b28fc7cbfad/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: f40993d1af704a61989d4b28fc7cbfad
+run_name: sincere-worm-810
+run_uuid: f40993d1af704a61989d4b28fc7cbfad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713087807668
+status: 1
+tags: []
+user_id: student

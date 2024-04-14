@@ -1,0 +1,15 @@
+artifact_uri: file:///home/student/Rakif/bird_classification_cnn/mlruns/793348029061192340/4b7e08d38a3b4df5aff5d9a458be3d4b/artifacts
+end_time: 1713093946854
+entry_point_name: ''
+experiment_id: '793348029061192340'
+lifecycle_stage: active
+run_id: 4b7e08d38a3b4df5aff5d9a458be3d4b
+run_name: unruly-dove-403
+run_uuid: 4b7e08d38a3b4df5aff5d9a458be3d4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713093424948
+status: 3
+tags: []
+user_id: student
